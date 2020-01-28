@@ -1,0 +1,6 @@
+R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\bin\Debug\GetImagesFromSimulation.exe.config
+R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\bin\Debug\GetImagesFromSimulation.exe
+R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\bin\Debug\GetImagesFromSimulation.pdb
+R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.exe
+R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.pdb
+R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.csprojResolveAssemblyReference.cache
