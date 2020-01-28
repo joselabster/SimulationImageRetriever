@@ -7,8 +7,8 @@
     <ProjectGuid>{2D7E11CA-0616-40C3-85B7-9CAD99CF5286}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GetImagesFromSimulation</RootNamespace>
-    <AssemblyName>GetImagesFromSimulation</AssemblyName>
+    <RootNamespace>SimulationImageRetriever</RootNamespace>
+    <AssemblyName>SimulationImageRetriever</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

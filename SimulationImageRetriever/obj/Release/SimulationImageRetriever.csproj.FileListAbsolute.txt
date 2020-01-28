@@ -1,0 +1,5 @@
+C:\Users\Jose\Documents\SimulationImageRetriever\SimulationImageRetriever\bin\Release\SimulationImageRetriever.exe.config
+C:\Users\Jose\Documents\SimulationImageRetriever\SimulationImageRetriever\bin\Release\SimulationImageRetriever.exe
+C:\Users\Jose\Documents\SimulationImageRetriever\SimulationImageRetriever\bin\Release\SimulationImageRetriever.pdb
+C:\Users\Jose\Documents\SimulationImageRetriever\SimulationImageRetriever\obj\Release\SimulationImageRetriever.exe
+C:\Users\Jose\Documents\SimulationImageRetriever\SimulationImageRetriever\obj\Release\SimulationImageRetriever.pdb

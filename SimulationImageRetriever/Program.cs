@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Xml.Linq;
 
-namespace GetImagesFromSimulation
+namespace SimulationImageRetriever
 {
     class Program
     {

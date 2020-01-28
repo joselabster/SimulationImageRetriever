@@ -4,3 +4,6 @@ R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\bin\Debug\GetImagesFromS
 R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.exe
 R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.pdb
 R:\Code\GetImagesFromSimulation\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\SimulationImageRetriever\GetImagesFromSimulation\bin\Debug\GetImagesFromSimulation.exe.config
+C:\Users\Jose\Documents\SimulationImageRetriever\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.exe
+C:\Users\Jose\Documents\SimulationImageRetriever\GetImagesFromSimulation\obj\Debug\GetImagesFromSimulation.pdb
